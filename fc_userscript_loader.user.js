@@ -3,10 +3,10 @@
 // @version        github-latest
 // @description    Userscript to load Frozen Cookies written by Icehawk78, forked by Lordshinjo
 // @author         Lordshinjo
-// @homepage       https://github.com/Mtarnuhal/FrozenCookies
+// @homepage       https://github.com/programmer588175/FrozenCookies
 // @include        http://orteil.dashnet.org/cookieclicker/
-// @updateURL      https://mtarnuhal.github.io/FrozenCookies/fc_userscript_loader.user.js
-// @downloadURL    https://mtarnuhal.github.io/FrozenCookies/fc_userscript_loader.user.js
+// @updateURL      https://programmer588175.github.io/FrozenCookies/fc_userscript_loader.user.js
+// @downloadURL    https://programmer588175.github.io/FrozenCookies/fc_userscript_loader.user.js
 // @run-at         document-start
 // ==/UserScript==
 
